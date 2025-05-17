@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_groq
+llama_parse
+python-dotenv
+fastapi 
+uvicorn
+python-multipart
